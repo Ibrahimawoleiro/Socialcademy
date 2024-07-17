@@ -160,7 +160,6 @@
 			isa = PBXGroup;
 			children = (
 				D76A7C1A2B9636BD00A5E3D7 /* AuthService.swift */,
-				D7823F3F2C47774900DDC41A /* README.md */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -205,6 +204,7 @@
 		D79DFB452B8939F6008275C0 /* Socialcademy */ = {
 			isa = PBXGroup;
 			children = (
+				D7823F3F2C47774900DDC41A /* README.md */,
 				D76A7C192B96369B00A5E3D7 /* Services */,
 				D79DFB8E2B89B1A8008275C0 /* Utilities */,
 				D79DFB872B895EDD008275C0 /* Repositories */,
