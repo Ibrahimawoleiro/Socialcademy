@@ -1,7 +1,3 @@
-Here's the README for the "Build a Social Media iOS App with Firebase and SwiftUI" project:
-
----
-
 # Socialcademy - SwiftUI and Firebase Project
 
 Submitted by: **Ibrahim Awoleiro**
