@@ -28,6 +28,7 @@
 		D76A7C252B965F3200A5E3D7 /* FormViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76A7C242B965F3200A5E3D7 /* FormViewModel.swift */; };
 		D76A7C272B96684300A5E3D7 /* SupportingViewsStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76A7C262B96684300A5E3D7 /* SupportingViewsStyle.swift */; };
 		D77C90E22B9526AF004030E3 /* Alert+Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77C90E12B9526AF004030E3 /* Alert+Error.swift */; };
+		D7823F402C47774900DDC41A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D7823F3F2C47774900DDC41A /* README.md */; };
 		D79DFB472B8939F6008275C0 /* SocialcademyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79DFB462B8939F6008275C0 /* SocialcademyApp.swift */; };
 		D79DFB4B2B8939F9008275C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D79DFB4A2B8939F9008275C0 /* Assets.xcassets */; };
 		D79DFB4E2B8939F9008275C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D79DFB4D2B8939F9008275C0 /* Preview Assets.xcassets */; };
@@ -93,6 +94,7 @@
 		D76A7C242B965F3200A5E3D7 /* FormViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewModel.swift; sourceTree = "<group>"; };
 		D76A7C262B96684300A5E3D7 /* SupportingViewsStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportingViewsStyle.swift; sourceTree = "<group>"; };
 		D77C90E12B9526AF004030E3 /* Alert+Error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Alert+Error.swift"; sourceTree = "<group>"; };
+		D7823F3F2C47774900DDC41A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D79DFB432B8939F6008275C0 /* Socialcademy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Socialcademy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D79DFB462B8939F6008275C0 /* SocialcademyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialcademyApp.swift; sourceTree = "<group>"; };
 		D79DFB4A2B8939F9008275C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				D76A7C1A2B9636BD00A5E3D7 /* AuthService.swift */,
+				D7823F3F2C47774900DDC41A /* README.md */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -432,6 +435,7 @@
 			files = (
 				D79DFB4E2B8939F9008275C0 /* Preview Assets.xcassets in Resources */,
 				D79DFB4B2B8939F9008275C0 /* Assets.xcassets in Resources */,
+				D7823F402C47774900DDC41A /* README.md in Resources */,
 				D79DFB782B893F7E008275C0 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
