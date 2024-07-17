@@ -183,6 +183,7 @@
 		D79DFB3A2B8939F6008275C0 = {
 			isa = PBXGroup;
 			children = (
+				D7823F3F2C47774900DDC41A /* README.md */,
 				D79DFB452B8939F6008275C0 /* Socialcademy */,
 				D79DFB562B8939FA008275C0 /* SocialcademyTests */,
 				D79DFB602B8939FA008275C0 /* SocialcademyUITests */,
@@ -204,7 +205,6 @@
 		D79DFB452B8939F6008275C0 /* Socialcademy */ = {
 			isa = PBXGroup;
 			children = (
-				D7823F3F2C47774900DDC41A /* README.md */,
 				D76A7C192B96369B00A5E3D7 /* Services */,
 				D79DFB8E2B89B1A8008275C0 /* Utilities */,
 				D79DFB872B895EDD008275C0 /* Repositories */,
